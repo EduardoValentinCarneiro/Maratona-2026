@@ -1,0 +1,20 @@
+VERIFICA.AI — site educativo da Maratona Tech 2026
+
+COMO ABRIR
+1. Extraia os arquivos desta pasta/arquivo ZIP.
+2. Abra o arquivo index.html com dois cliques.
+3. Para publicar na internet, envie os arquivos index.html, style.css e script.js
+   para o serviço de hospedagem escolhido pela equipe.
+
+O QUE O SITE FAZ
+- Apresenta o tema deepfakes e desinformação.
+- Explica, em linguagem educativa, o papel dos dados, da IA e dos algoritmos.
+- Inclui o desafio interativo “Real ou IA?” com um cenário ilustrativo.
+- Oferece passos para verificar a origem e o contexto de um conteúdo.
+- Apresenta a campanha, a escola, a equipe e links de referência.
+
+IMPORTANTE
+O site é um protótipo educativo. Ele não recebe arquivos enviados e não detecta
+deepfakes. O cenário do desafio é uma ilustração criada para ensinar verificação;
+não representa um vídeo real nem prova que um conteúdo é autêntico ou falso.
+Os links e a fonte tipográfica podem precisar de internet para abrir.
