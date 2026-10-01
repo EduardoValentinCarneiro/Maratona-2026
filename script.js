@@ -45,3 +45,33 @@ reset.addEventListener("click", () => {
   feedback.classList.remove("wrong");
   reset.hidden = true;
 });
+
+
+const detectiveOptions = [...document.querySelectorAll(".detective-option")];
+const detectiveFeedback = document.querySelector(".detective-feedback");
+const detectiveReset = document.querySelector(".detective-reset");
+
+detectiveOptions.forEach((option) => {
+  option.addEventListener("click", () => {
+    detectiveOptions.forEach((button) => {
+      button.disabled = true;
+      if (button === option) button.classList.add(button.dataset.result === "right" ? "correct" : "incorrect");
+    });
+    const correct = option.dataset.result === "right";
+    detectiveFeedback.textContent = correct
+      ? "Boa! Verificar a data e procurar a publicação original ajuda a recuperar o contexto. A falta de data, por si só, não prova que o vídeo foi manipulado."
+      : "Ainda não dá para concluir. Uma legenda pode estar errada, mas a ausência de data também não prova que o vídeo é falso. Procure a fonte e o contexto. ";
+    detectiveFeedback.classList.toggle("wrong", !correct);
+    detectiveReset.hidden = false;
+  });
+});
+
+detectiveReset.addEventListener("click", () => {
+  detectiveOptions.forEach((option) => {
+    option.disabled = false;
+    option.classList.remove("correct", "incorrect");
+  });
+  detectiveFeedback.textContent = "";
+  detectiveFeedback.classList.remove("wrong");
+  detectiveReset.hidden = true;
+});

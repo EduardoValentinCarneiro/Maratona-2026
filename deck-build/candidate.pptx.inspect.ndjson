@@ -1,0 +1,291 @@
+{"kind":"deck","id":"pr/wbec7p","name":"Deck"}
+{"kind":"layout","layoutId":"e0944e08-2021-451b-983f-bd2484b77606","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"20866f4e-f717-4303-a182-add3f3f9a52d","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/atvqy8","slide":1,"title":"VERIFICA.AI","textShapes":13}
+{"kind":"textbox","id":"sh/lkjqd0jm","slide":1,"text":"VERIFICA.AI","textPreview":"VERIFICA.AI","textChars":11,"textLines":1,"bbox":[72,44,190,27]}
+{"kind":"textbox","id":"sh/yh8725kv","slide":1,"text":"MARATONA TECH 2026   /   FASE 1   /   N3","textPreview":"MARATONA TECH 2026   /   FASE 1   /   N3","textChars":40,"textLines":1,"bbox":[72,94,650,22]}
+{"kind":"shape","id":"sh/jih8bq1g","slide":1,"bbox":[72,143,82,3]}
+{"kind":"textbox","id":"sh/wfqp0v25","slide":1,"text":"Deepfakes\ne desinformação","textPreview":"Deepfakes | e desinformação","textChars":25,"textLines":2,"bbox":[72,174,815,180]}
+{"kind":"textbox","id":"sh/xgzq90jq","slide":1,"text":"Como verificar conteúdos que parecem reais","textPreview":"Como verificar conteúdos que parecem reais","textChars":42,"textLines":1,"bbox":[76,372,760,39]}
+{"kind":"textbox","id":"sh/ad87ylkz","slide":1,"text":"PROJETO DE ANÁLISE E RECOMENDAÇÕES PÚBLICAS","textPreview":"PROJETO DE ANÁLISE E RECOMENDAÇÕES PÚBLICAS","textChars":43,"textLines":1,"bbox":[76,434,680,23]}
+{"kind":"shape","id":"sh/beh87q1k","slide":1,"bbox":[76,492,1128,1]}
+{"kind":"textbox","id":"sh/gbapcf29","slide":1,"text":"Colégio Estadual Marechal Costa e Silva  •  Cidade Gaúcha, Paraná  •  3º ano D","textPreview":"Colégio Estadual Marechal Costa e Silva  •  Cidade Gaúcha, Paraná  •  3º ano D","textChars":78,"textLines":1,"bbox":[76,511,1128,27]}
+{"kind":"textbox","id":"sh/hc3qlkju","slide":1,"text":"Eduardo Valentin Carneiro","textPreview":"Eduardo Valentin Carneiro","textChars":25,"textLines":1,"bbox":[76,566,355,24]}
+{"kind":"textbox","id":"sh/1sjm9sjq","slide":1,"text":"Luiz Gabriel Alves dos Santos","textPreview":"Luiz Gabriel Alves dos Santos","textChars":29,"textLines":1,"bbox":[450,566,355,24]}
+{"kind":"textbox","id":"sh/0ral0ni5","slide":1,"text":"Thiago Henrique Malta Garcia","textPreview":"Thiago Henrique Malta Garcia","textChars":28,"textLines":1,"bbox":[824,566,355,24]}
+{"kind":"textbox","id":"sh/fq147i1k","slide":1,"text":"Felype Justino da Silva","textPreview":"Felype Justino da Silva","textChars":23,"textLines":1,"bbox":[76,597,355,24]}
+{"kind":"textbox","id":"sh/ep83yd0z","slide":1,"text":"Paulo Ricardo Nunes da Silva","textPreview":"Paulo Ricardo Nunes da Silva","textChars":28,"textLines":1,"bbox":[450,597,355,24]}
+{"kind":"textbox","id":"sh/dozm58ju","slide":1,"text":"Adryan Vinicius de Almeida","textPreview":"Adryan Vinicius de Almeida","textChars":26,"textLines":1,"bbox":[824,597,355,24]}
+{"kind":"textbox","id":"sh/s3qlw3i9","slide":1,"text":"ANTES DE COMPARTILHAR, CONFIRA.","textPreview":"ANTES DE COMPARTILHAR, CONFIRA.","textChars":31,"textLines":1,"bbox":[76,653,650,21]}
+{"kind":"notes","id":"nt/atvqy8","slide":1,"text":"Abertura — Eduardo. Apresente grupo e tema. Diga que investigamos como conteúdos sintéticos podem parecer autênticos e propomos práticas de verificação. Não prometa detecção automática."}
+{"kind":"slide","id":"sl/uep69p","slide":2,"title":"VERIFICA.AI","textShapes":11}
+{"kind":"textbox","id":"sh/1wrq9gri","slide":2,"text":"VERIFICA.AI","textPreview":"VERIFICA.AI","textChars":11,"textLines":1,"bbox":[72,32,170,24]}
+{"kind":"textbox","id":"sh/e9g7y187","slide":2,"text":"01 / PROBLEMA","textPreview":"01 / PROBLEMA","textChars":13,"textLines":1,"bbox":[72,91,850,20]}
+{"kind":"textbox","id":"sh/fup8769c","slide":2,"text":"Deepfake: quando a aparência não basta","textPreview":"Deepfake: quando a aparência não basta","textChars":38,"textLines":1,"bbox":[72,122,1136,83]}
+{"kind":"shape","id":"sh/ozip4vq9","slide":2,"bbox":[72,674,1136,1]}
+{"kind":"textbox","id":"sh/p0rqd0ru","slide":2,"text":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textPreview":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textChars":40,"textLines":1,"bbox":[72,682,800,18]}
+{"kind":"textbox","id":"sh/2x072l83","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1162,682,46,18]}
+{"kind":"textbox","id":"sh/3y98bq9o","slide":2,"text":"Deepfakes são áudios, fotos ou vídeos criados ou modificados com IA generativa e alto grau de realismo.","textPreview":"Deepfakes são áudios, fotos ou vídeos criados ou modificados com IA generativa e alto grau de realismo.","textChars":103,"textLines":1,"bbox":[72,238,760,104]}
+{"kind":"textbox","id":"sh/43epsrap","slide":2,"text":"O problema aparece quando o conteúdo é apresentado sem contexto ou como registro verdadeiro — e circula antes de ser verificado.","textPreview":"O problema aparece quando o conteúdo é apresentado sem contexto ou como registro verdadeiro — e circula antes de ser verificado.","textChars":128,"textLines":1,"bbox":[72,365,730,80]}
+{"kind":"shape","id":"sh/54n61wra","slide":2,"bbox":[858,238,2,300]}
+{"kind":"textbox","id":"sh/tgnilwfm","slide":2,"text":"POR QUE INVESTIGAR?","textPreview":"POR QUE INVESTIGAR?","textChars":19,"textLines":1,"bbox":[895,248,300,20]}
+{"kind":"textbox","id":"sh/sfe1sre1","slide":2,"text":"Imagem e voz podem influenciar o que as pessoas acreditam.","textPreview":"Imagem e voz podem influenciar o que as pessoas acreditam.","textChars":58,"textLines":1,"bbox":[895,278,300,67]}
+{"kind":"shape","id":"sh/re50jmxg","slide":2,"bbox":[895,367,294,1]}
+{"kind":"textbox","id":"sh/6dwjqhwv","slide":2,"text":"Os riscos envolvem dados pessoais, reputação, golpes e confiança pública.","textPreview":"Os riscos envolvem dados pessoais, reputação, golpes e confiança pública.","textChars":73,"textLines":1,"bbox":[895,386,300,79]}
+{"kind":"textbox","id":"sh/1472pwvi","slide":2,"text":"A ANPD analisa os impactos dos deepfakes sobre dados e segurança digital no Brasil.","textPreview":"A ANPD analisa os impactos dos deepfakes sobre dados e segurança digital no Brasil.","textChars":83,"textLines":1,"bbox":[72,544,1115,44]}
+{"kind":"notes","id":"nt/uep69p","slide":2,"text":"Eduardo. Explique a definição da ANPD. Nem toda edição é deepfake, e nem todo uso de IA é malicioso. Fontes: ANPD, Radar Tecnológico nº 6 (2026), https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-radar-tecnologico-sobre-deepfakes ; Material do Estudante Maratona Tech 2026, Ensino Médio/N3."}
+{"kind":"slide","id":"sl/32m3jv","slide":3,"title":"VERIFICA.AI","textShapes":12}
+{"kind":"textbox","id":"sh/50ryl4re","slide":3,"text":"VERIFICA.AI","textPreview":"VERIFICA.AI","textChars":11,"textLines":1,"bbox":[72,32,170,24]}
+{"kind":"textbox","id":"sh/ix0fa9s3","slide":3,"text":"02 / ARTEFATO DIGITAL • CASO PÚBLICO","textPreview":"02 / ARTEFATO DIGITAL • CASO PÚBLICO","textChars":36,"textLines":1,"bbox":[72,91,850,20]}
+{"kind":"textbox","id":"sh/jy9gje98","slide":3,"text":"Vídeo de IA analisado pelo TSE em 2026","textPreview":"Vídeo de IA analisado pelo TSE em 2026","textChars":38,"textLines":1,"bbox":[72,122,1136,83]}
+{"kind":"shape","id":"sh/wvyx8zax","slide":3,"bbox":[72,674,1136,1]}
+{"kind":"textbox","id":"sh/xw7yh4ri","slide":3,"text":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textPreview":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textChars":40,"textLines":1,"bbox":[72,682,800,18]}
+{"kind":"textbox","id":"sh/a9gf6psr","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1162,682,46,18]}
+{"kind":"textbox","id":"sh/vapwfu9c","slide":3,"text":"CONVENÇÃO NACIONAL  ·  25 JUL 2026","textPreview":"CONVENÇÃO NACIONAL  ·  25 JUL 2026","textChars":34,"textLines":1,"bbox":[72,230,510,20]}
+{"kind":"textbox","id":"sh/gr2xk3a1","slide":3,"text":"Um vídeo gerado por IA recriou a imagem e a voz de Jair Bolsonaro declarando apoio à candidatura do filho.","textPreview":"Um vídeo gerado por IA recriou a imagem e a voz de Jair Bolsonaro declarando apoio à candidatura do filho.","textChars":106,"textLines":1,"bbox":[72,267,650,104]}
+{"kind":"textbox","id":"sh/1sbytorm","slide":3,"text":"Uma federação partidária questionou o conteúdo. Em 1º de setembro, o TSE julgou o caso e definiu critérios para caracterizar deepfake nas eleições.","textPreview":"Uma federação partidária questionou o conteúdo. Em 1º de setembro, o TSE julgou o caso e definiu critérios para caracterizar deepfake nas...","textChars":147,"textLines":1,"bbox":[72,393,645,91]}
+{"kind":"shape","id":"sh/t8bqpo72","slide":3,"bbox":[774,238,2,294]}
+{"kind":"textbox","id":"sh/s7i9wj6x","slide":3,"text":"POR QUE É UM ARTEFATO N3?","textPreview":"POR QUE É UM ARTEFATO N3?","textChars":25,"textLines":1,"bbox":[812,247,365,20]}
+{"kind":"textbox","id":"sh/7698nepc","slide":3,"text":"Conteúdo audiovisual real, discutido em processo de alcance nacional e ligado à circulação de informação política.","textPreview":"Conteúdo audiovisual real, discutido em processo de alcance nacional e ligado à circulação de informação política.","textChars":114,"textLines":1,"bbox":[812,283,365,105]}
+{"kind":"shape","id":"sh/650ru9or","slide":3,"bbox":[812,407,360,1]}
+{"kind":"textbox","id":"sh/54rql476","slide":3,"text":"A análise exige olhar para conteúdo, linguagem, público e contexto — não só para o realismo visual.","textPreview":"A análise exige olhar para conteúdo, linguagem, público e contexto — não só para o realismo visual.","textChars":99,"textLines":1,"bbox":[812,426,365,90]}
+{"kind":"textbox","id":"sh/k3ipsz6l","slide":3,"text":"O TSE rejeitou o pedido de multa no caso concreto; isso não é autorização geral para qualquer uso de deepfake.","textPreview":"O TSE rejeitou o pedido de multa no caso concreto; isso não é autorização geral para qualquer uso de deepfake.","textChars":110,"textLines":1,"bbox":[72,553,1115,44]}
+{"kind":"notes","id":"nt/32m3jv","slide":3,"text":"Luiz Gabriel. O vídeo, exibido na Convenção Nacional do PL, recriou Jair Bolsonaro declarando apoio à candidatura de Flávio Bolsonaro. A FE Brasil contestou. O TSE rejeitou o pedido de multa por 4 votos a 3 e fixou critérios; para a regra eleitoral discutida, a vedação pressupõe propaganda eleitoral. A decisão depende do contexto e não dá permissão geral. Fonte: TSE, “TSE fixa tese sobre deepfake e delimita regra para as Eleições 2026”, 1–2 set. 2026, https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-fixa-tese-sobre-deepfake-e-delimita-regra-para-as-eleicoes-2026"}
+{"kind":"slide","id":"sl/0z92cz","slide":4,"title":"VERIFICA.AI","textShapes":10}
+{"kind":"textbox","id":"sh/e1wb61cr","slide":4,"text":"VERIFICA.AI","textPreview":"VERIFICA.AI","textChars":11,"textLines":1,"bbox":[72,32,170,24]}
+{"kind":"textbox","id":"sh/14nuhgb2","slide":4,"text":"03 / RELATÓRIO TÉCNICO","textPreview":"03 / RELATÓRIO TÉCNICO","textChars":22,"textLines":1,"bbox":[72,91,850,20]}
+{"kind":"textbox","id":"sh/03et8buh","slide":4,"text":"O que sabemos — e o que não podemos presumir","textPreview":"O que sabemos — e o que não podemos presumir","textChars":44,"textLines":1,"bbox":[72,122,1136,83]}
+{"kind":"shape","id":"sh/n65cjqt8","slide":4,"bbox":[72,674,1136,1]}
+{"kind":"textbox","id":"sh/m5wbalcn","slide":4,"text":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textPreview":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textChars":40,"textLines":1,"bbox":[72,682,800,18]}
+{"kind":"textbox","id":"sh/987ulgbe","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1162,682,46,18]}
+{"kind":"textbox","id":"sh/o7ytcvut","slide":4,"text":"CONFIRMADO NA FONTE PÚBLICA","textPreview":"CONFIRMADO NA FONTE PÚBLICA","textChars":27,"textLines":1,"bbox":[72,244,505,20]}
+{"kind":"shape","id":"sh/bupcnqtk","slide":4,"bbox":[72,270,505,2]}
+{"kind":"textbox","id":"sh/atgbelcz","slide":4,"text":"• Vídeo gerado por IA.\n• Recriou imagem e voz de pessoa pública.\n• Foi exibido em convenção partidária.\n• A Justiça avaliou o contexto da comunicação.","textPreview":"• Vídeo gerado por IA. | • Recriou imagem e voz de pessoa pública. | • Foi exibido em convenção partidária. | • A Justiça avaliou o conte...","textChars":150,"textLines":4,"bbox":[72,292,505,180]}
+{"kind":"textbox","id":"sh/4f2pgjad","slide":4,"text":"NÃO INFORMADO NA NOTÍCIA DO JULGAMENTO","textPreview":"NÃO INFORMADO NA NOTÍCIA DO JULGAMENTO","textChars":38,"textLines":1,"bbox":[657,244,551,20]}
+{"kind":"shape","id":"sh/pgb6pory","slide":4,"bbox":[657,270,551,2]}
+{"kind":"textbox","id":"sh/2d0ne9s7","slide":4,"text":"• Arquivos usados para gerar o vídeo.\n• Como foi recomendado no feed.\n• Quantas pessoas viram ou compartilharam.\n• Se o público percebeu que era sintético.","textPreview":"• Arquivos usados para gerar o vídeo. | • Como foi recomendado no feed. | • Quantas pessoas viram ou compartilharam. | • Se o público per...","textChars":155,"textLines":4,"bbox":[657,292,551,180]}
+{"kind":"textbox","id":"sh/3e9one9s","slide":4,"text":"Conclusão técnica: separamos fatos confirmados de hipóteses sobre dados e alcance.","textPreview":"Conclusão técnica: separamos fatos confirmados de hipóteses sobre dados e alcance.","textChars":82,"textLines":1,"bbox":[72,541,1110,48]}
+{"kind":"notes","id":"nt/0z92cz","slide":4,"text":"Luiz Gabriel. A notícia confirma a geração por IA e a recriação de imagem e voz. Não detalha dados de treinamento nem métricas de alcance algorítmico. Não inventem esses elementos. Fonte: TSE, https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-fixa-tese-sobre-deepfake-e-delimita-regra-para-as-eleicoes-2026"}
+{"kind":"slide","id":"sl/0oqndx","slide":5,"title":"VERIFICA.AI","textShapes":21}
+{"kind":"textbox","id":"sh/0jed0nul","slide":5,"text":"VERIFICA.AI","textPreview":"VERIFICA.AI","textChars":11,"textLines":1,"bbox":[72,32,170,24]}
+{"kind":"textbox","id":"sh/zi5crid0","slide":5,"text":"04 / FUNCIONAMENTO","textPreview":"04 / FUNCIONAMENTO","textChars":18,"textLines":1,"bbox":[72,91,850,20]}
+{"kind":"textbox","id":"sh/ehwvydcv","slide":5,"text":"Da matéria-prima ao conteúdo compartilhado","textPreview":"Da matéria-prima ao conteúdo compartilhado","textChars":42,"textLines":1,"bbox":[72,122,1136,83]}
+{"kind":"shape","id":"sh/dgnup8va","slide":5,"bbox":[72,674,1136,1]}
+{"kind":"textbox","id":"sh/cfudwnup","slide":5,"text":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textPreview":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textChars":40,"textLines":1,"bbox":[72,682,800,18]}
+{"kind":"textbox","id":"sh/relcnid4","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1162,682,46,18]}
+{"kind":"textbox","id":"sh/qdcvudcj","slide":5,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[72,253,43,28]}
+{"kind":"shape","id":"sh/xc7e1cve","slide":5,"bbox":[72,294,262,2]}
+{"kind":"textbox","id":"sh/wbyd87ut","slide":5,"text":"Dados disponíveis","textPreview":"Dados disponíveis","textChars":17,"textLines":1,"bbox":[72,315,264,39]}
+{"kind":"textbox","id":"sh/elwn2hwb","slide":5,"text":"Imagens, voz e vídeos podem compor o rastro digital.","textPreview":"Imagens, voz e vídeos podem compor o rastro digital.","textChars":52,"textLines":1,"bbox":[72,366,264,77]}
+{"kind":"textbox","id":"sh/zm5ob2xw","slide":5,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[336,306,26,31]}
+{"kind":"textbox","id":"sh/07e547e1","slide":5,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[358,253,43,28]}
+{"kind":"shape","id":"sh/18n6dcfm","slide":5,"bbox":[358,294,262,2]}
+{"kind":"textbox","id":"sh/qhcnyxgz","slide":5,"text":"Alteração com IA","textPreview":"Alteração com IA","textChars":16,"textLines":1,"bbox":[358,315,264,39]}
+{"kind":"textbox","id":"sh/rilo72xk","slide":5,"text":"Um modelo gera ou modifica elementos audiovisuais.","textPreview":"Um modelo gera ou modifica elementos audiovisuais.","textChars":50,"textLines":1,"bbox":[358,366,264,77]}
+{"kind":"textbox","id":"sh/cju507y5","slide":5,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[622,306,26,31]}
+{"kind":"textbox","id":"sh/dkn69cfq","slide":5,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[644,253,43,28]}
+{"kind":"shape","id":"sh/adgna1wj","slide":5,"bbox":[644,294,262,2]}
+{"kind":"textbox","id":"sh/bepojmxo","slide":5,"text":"Publicação","textPreview":"Publicação","textChars":10,"textLines":1,"bbox":[644,315,264,39]}
+{"kind":"textbox","id":"sh/7ihkbedg","slide":5,"text":"Legenda e contexto influenciam a interpretação.","textPreview":"Legenda e contexto influenciam a interpretação.","textChars":47,"textLines":1,"bbox":[644,366,264,77]}
+{"kind":"textbox","id":"sh/6x832twv","slide":5,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[908,306,26,31]}
+{"kind":"textbox","id":"sh/tkj2dov6","slide":5,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[930,253,43,28]}
+{"kind":"shape","id":"sh/8jql4je1","slide":5,"bbox":[930,294,262,2]}
+{"kind":"textbox","id":"sh/fm1kfydc","slide":5,"text":"Circulação","textPreview":"Circulação","textChars":10,"textLines":1,"bbox":[930,315,264,39]}
+{"kind":"textbox","id":"sh/uls36twr","slide":5,"text":"Repasses e recomendações podem ampliar a audiência.","textPreview":"Repasses e recomendações podem ampliar a audiência.","textChars":51,"textLines":1,"bbox":[930,366,264,77]}
+{"kind":"shape","id":"sh/hoj2h8vi","slide":5,"bbox":[72,488,1136,1]}
+{"kind":"textbox","id":"sh/gnal83ux","slide":5,"text":"A circulação pode ser rápida; por isso, a checagem precisa vir antes do compartilhamento.","textPreview":"A circulação pode ser rápida; por isso, a checagem precisa vir antes do compartilhamento.","textChars":89,"textLines":1,"bbox":[72,514,1050,50]}
+{"kind":"notes","id":"nt/0oqndx","slide":5,"text":"Thiago. Percorra a cadeia sem atribuir ao caso informações que a fonte não traz. Imagens e voz podem servir de insumo em fluxos de geração, mas a matéria consultada não especifica quais dados foram usados. Fonte: ANPD, Radar Tecnológico nº 6, https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-radar-tecnologico-sobre-deepfakes"}
+{"kind":"slide","id":"sl/4v9gtu","slide":6,"title":"VERIFICA.AI","textShapes":14}
+{"kind":"textbox","id":"sh/9on6x8ne","slide":6,"text":"VERIFICA.AI","textPreview":"VERIFICA.AI","textChars":11,"textLines":1,"bbox":[72,32,170,24]}
+{"kind":"textbox","id":"sh/m1wnmd4n","slide":6,"text":"05 / RELATÓRIO TÉCNICO • CAUSA-RAIZ","textPreview":"05 / RELATÓRIO TÉCNICO • CAUSA-RAIZ","textChars":35,"textLines":1,"bbox":[72,91,850,20]}
+{"kind":"textbox","id":"sh/n25ovi58","slide":6,"text":"A causa não é só a existência da IA","textPreview":"A causa não é só a existência da IA","textChars":35,"textLines":1,"bbox":[72,122,1136,83]}
+{"kind":"shape","id":"sh/0zu5k3mh","slide":6,"bbox":[72,674,1136,1]}
+{"kind":"textbox","id":"sh/l036t8n2","slide":6,"text":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textPreview":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textChars":40,"textLines":1,"bbox":[72,682,800,18]}
+{"kind":"textbox","id":"sh/yxcnit4r","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1162,682,46,18]}
+{"kind":"textbox","id":"sh/zylory5c","slide":6,"text":"CAUSA-RAIZ","textPreview":"CAUSA-RAIZ","textChars":10,"textLines":1,"bbox":[72,241,220,22]}
+{"kind":"textbox","id":"sh/kvypw7m1","slide":6,"text":"Conteúdo convincente pode circular sem origem clara e sem verificação antes do repasse.","textPreview":"Conteúdo convincente pode circular sem origem clara e sem verificação antes do repasse.","textChars":87,"textLines":1,"bbox":[72,280,1050,83]}
+{"kind":"shape","id":"sh/5w765snm","slide":6,"bbox":[72,394,1136,1]}
+{"kind":"textbox","id":"sh/hs3il0za","slide":6,"text":"TECNOLOGIA","textPreview":"TECNOLOGIA","textChars":10,"textLines":1,"bbox":[72,423,340,20]}
+{"kind":"textbox","id":"sh/wru1cvyp","slide":6,"text":"Ferramentas facilitam criar ou alterar mídia realista.","textPreview":"Ferramentas facilitam criar ou alterar mídia realista.","textChars":54,"textLines":1,"bbox":[72,454,330,59]}
+{"kind":"shape","id":"sh/vql0jqh4","slide":6,"bbox":[419,421,1,112]}
+{"kind":"textbox","id":"sh/upcjalgj","slide":6,"text":"CONTEXTO","textPreview":"CONTEXTO","textChars":8,"textLines":1,"bbox":[454,423,340,20]}
+{"kind":"textbox","id":"sh/9ojihgzy","slide":6,"text":"A publicação pode omitir autoria, data ou aviso de síntese.","textPreview":"A publicação pode omitir autoria, data ou aviso de síntese.","textChars":59,"textLines":1,"bbox":[454,454,330,59]}
+{"kind":"shape","id":"sh/8na18byd","slide":6,"bbox":[801,421,1,112]}
+{"kind":"textbox","id":"sh/7m10f6hs","slide":6,"text":"HÁBITO","textPreview":"HÁBITO","textChars":6,"textLines":1,"bbox":[836,423,340,20]}
+{"kind":"textbox","id":"sh/mlsj6lgn","slide":6,"text":"Pressa e compartilhamento impulsivo reduzem a checagem.","textPreview":"Pressa e compartilhamento impulsivo reduzem a checagem.","textChars":55,"textLines":1,"bbox":[836,454,330,59]}
+{"kind":"textbox","id":"sh/dkn2tkf2","slide":6,"text":"Recomendadores podem contribuir para o alcance, mas não são a causa isolada.","textPreview":"Recomendadores podem contribuir para o alcance, mas não são a causa isolada.","textChars":76,"textLines":1,"bbox":[72,556,1080,34]}
+{"kind":"notes","id":"nt/4v9gtu","slide":6,"text":"Thiago. Causa-raiz: mídia sintética realista junto a falta de proveniência/contexto e circulação antes da checagem. Recomendações algorítmicas podem influenciar distribuição, mas não são causa única. Fonte: ANPD, Radar Tecnológico nº 6, https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-radar-tecnologico-sobre-deepfakes"}
+{"kind":"slide","id":"sl/9lqc8k","slide":7,"title":"VERIFICA.AI","textShapes":14}
+{"kind":"textbox","id":"sh/e9g7qlsf","slide":7,"text":"VERIFICA.AI","textPreview":"VERIFICA.AI","textChars":11,"textLines":1,"bbox":[72,32,170,24]}
+{"kind":"textbox","id":"sh/1c7610bq","slide":7,"text":"06 / DADOS E RASTRO DIGITAL","textPreview":"06 / DADOS E RASTRO DIGITAL","textChars":27,"textLines":1,"bbox":[72,91,850,20]}
+{"kind":"textbox","id":"sh/0bypsval","slide":7,"text":"Imagem e voz também pedem cuidado","textPreview":"Imagem e voz também pedem cuidado","textChars":33,"textLines":1,"bbox":[72,122,1136,83]}
+{"kind":"shape","id":"sh/r65ovqto","slide":7,"bbox":[72,674,1136,1]}
+{"kind":"textbox","id":"sh/q5wnmlc3","slide":7,"text":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textPreview":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textChars":40,"textLines":1,"bbox":[72,682,800,18]}
+{"kind":"textbox","id":"sh/d876x0bu","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1162,682,46,18]}
+{"kind":"textbox","id":"sh/c7e5ova9","slide":7,"text":"FOTOS","textPreview":"FOTOS","textChars":5,"textLines":1,"bbox":[72,247,130,24]}
+{"kind":"textbox","id":"sh/b29o7at8","slide":7,"text":"VÍDEOS","textPreview":"VÍDEOS","textChars":6,"textLines":1,"bbox":[252,247,130,24]}
+{"kind":"textbox","id":"sh/a107ypsn","slide":7,"text":"ÁUDIOS","textPreview":"ÁUDIOS","textChars":6,"textLines":1,"bbox":[430,247,130,24]}
+{"kind":"textbox","id":"sh/wbal4z2p","slide":7,"text":"Quando permitem identificar alguém, esses registros podem ser dados pessoais.","textPreview":"Quando permitem identificar alguém, esses registros podem ser dados pessoais.","textChars":77,"textLines":1,"bbox":[72,294,490,90]}
+{"kind":"textbox","id":"sh/xcj2d43a","slide":7,"text":"Publicar em perfil aberto não significa consentir com qualquer reutilização.","textPreview":"Publicar em perfil aberto não significa consentir com qualquer reutilização.","textChars":76,"textLines":1,"bbox":[72,411,490,65]}
+{"kind":"shape","id":"sh/a98329kj","slide":7,"bbox":[626,240,2,315]}
+{"kind":"textbox","id":"sh/va1kbul4","slide":7,"text":"RASTRO DIGITAL","textPreview":"RASTRO DIGITAL","textChars":14,"textLines":1,"bbox":[670,247,485,20]}
+{"kind":"textbox","id":"sh/8nql0z2d","slide":7,"text":"Publicações • cópias • repostagens • gravações","textPreview":"Publicações • cópias • repostagens • gravações","textChars":46,"textLines":1,"bbox":[670,286,485,35]}
+{"kind":"textbox","id":"sh/98z2943y","slide":7,"text":"Quanto mais registros circulam, mais importante é cuidar da privacidade e da autorização de uso.","textPreview":"Quanto mais registros circulam, mais importante é cuidar da privacidade e da autorização de uso.","textChars":96,"textLines":1,"bbox":[670,344,485,73]}
+{"kind":"shape","id":"sh/ml83ypkn","slide":7,"bbox":[670,439,465,1]}
+{"kind":"textbox","id":"sh/nmhk7ul8","slide":7,"text":"Nuance: fotos e áudios identificáveis são dados pessoais; biometria vinculada a alguém tem proteção especial na LGPD.","textPreview":"Nuance: fotos e áudios identificáveis são dados pessoais; biometria vinculada a alguém tem proteção especial na LGPD.","textChars":117,"textLines":1,"bbox":[670,459,472,90]}
+{"kind":"notes","id":"nt/9lqc8k","slide":7,"text":"Felype. Relacione o rastro digital a fotos, áudios e publicações que podem permanecer disponíveis ou ser replicados. A LGPD define dado pessoal como informação ligada a pessoa identificada ou identificável. Não diga que toda foto é automaticamente dado biométrico: biometria vinculada à pessoa é dado sensível. Fontes: ANPD, Titular de Dados, https://www.gov.br/anpd/pt-br/assuntos/titular-de-dados ; ANPD, Perguntas Frequentes, https://www.gov.br/anpd/pt-br/acesso-a-informacao/perguntas-frequentes ; Lei 13.709/2018, art. 5º, https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm"}
+{"kind":"slide","id":"sl/kubwbw","slide":8,"title":"VERIFICA.AI","textShapes":17}
+{"kind":"textbox","id":"sh/u1ovmhsz","slide":8,"text":"VERIFICA.AI","textPreview":"VERIFICA.AI","textChars":11,"textLines":1,"bbox":[72,32,170,24]}
+{"kind":"textbox","id":"sh/hozuhwra","slide":8,"text":"07 / ALGORITMOS","textPreview":"07 / ALGORITMOS","textChars":15,"textLines":1,"bbox":[72,91,850,20]}
+{"kind":"textbox","id":"sh/gnqdora5","slide":8,"text":"Recomendação organiza o feed; não verifica a verdade","textPreview":"Recomendação organiza o feed; não verifica a verdade","textChars":52,"textLines":1,"bbox":[72,122,1136,83]}
+{"kind":"shape","id":"sh/3qhwj69g","slide":8,"bbox":[72,674,1136,1]}
+{"kind":"textbox","id":"sh/2p8vq1sv","slide":8,"text":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textPreview":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textChars":40,"textLines":1,"bbox":[72,682,800,18]}
+{"kind":"textbox","id":"sh/pszelwrm","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1162,682,46,18]}
+{"kind":"textbox","id":"sh/4rqdsba1","slide":8,"text":"Sinais de interesse","textPreview":"Sinais de interesse","textChars":19,"textLines":1,"bbox":[72,270,225,42]}
+{"kind":"textbox","id":"sh/judc729c","slide":8,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[301,271,42,40]}
+{"kind":"textbox","id":"sh/it4vexsr","slide":8,"text":"Seleção de conteúdo","textPreview":"Seleção de conteúdo","textChars":19,"textLines":1,"bbox":[353,270,225,42]}
+{"kind":"textbox","id":"sh/03y5g76t","slide":8,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[582,271,42,40]}
+{"kind":"textbox","id":"sh/14769c7e","slide":8,"text":"Feed personalizado","textPreview":"Feed personalizado","textChars":18,"textLines":1,"bbox":[638,270,225,42]}
+{"kind":"textbox","id":"sh/ehgnexo3","slide":8,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[867,271,42,40]}
+{"kind":"textbox","id":"sh/zipo72po","slide":8,"text":"Mais exposição","textPreview":"Mais exposição","textChars":14,"textLines":1,"bbox":[920,270,225,42]}
+{"kind":"shape","id":"sh/o7ipk765","slide":8,"bbox":[72,339,1074,1]}
+{"kind":"textbox","id":"sh/98r6dc7q","slide":8,"text":"PODE FAZER","textPreview":"PODE FAZER","textChars":10,"textLines":1,"bbox":[72,374,477,20]}
+{"kind":"textbox","id":"sh/m5gnihoz","slide":8,"text":"Personalizar a ordem e a recomendação a partir de sinais de interesse.","textPreview":"Personalizar a ordem e a recomendação a partir de sinais de interesse.","textChars":70,"textLines":1,"bbox":[72,403,477,66]}
+{"kind":"textbox","id":"sh/n69obmpk","slide":8,"text":"NÃO FAZ POR SI SÓ","textPreview":"NÃO FAZ POR SI SÓ","textChars":17,"textLines":1,"bbox":[657,374,481,20]}
+{"kind":"textbox","id":"sh/4be58n61","slide":8,"text":"Confirmar autoria, provar veracidade ou substituir a checagem humana.","textPreview":"Confirmar autoria, provar veracidade ou substituir a checagem humana.","textChars":69,"textLines":1,"bbox":[657,403,481,66]}
+{"kind":"textbox","id":"sh/pcn61s76","slide":8,"text":"A notícia do TSE não mede o efeito do algoritmo sobre o alcance daquele vídeo.","textPreview":"A notícia do TSE não mede o efeito do algoritmo sobre o alcance daquele vídeo.","textChars":78,"textLines":1,"bbox":[72,530,1075,40]}
+{"kind":"notes","id":"nt/kubwbw","slide":8,"text":"Felype. Sistemas de recomendação personalizam o que aparece conforme possíveis interesses; isso pode influenciar visibilidade, mas não checa a veracidade. A notícia do TSE não mede o alcance algorítmico do vídeo do caso, então este é um mecanismo geral. Fonte: SECOM, “Conhecendo os riscos”, https://www.gov.br/secom/pt-br/assuntos/uso-de-telas-por-criancas-e-adolescentes/guia/capitulos/conhecendo-os-riscos ; TSE, https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-fixa-tese-sobre-deepfake-e-delimita-regra-para-as-eleicoes-2026"}
+{"kind":"slide","id":"sl/j6d6if","slide":9,"title":"VERIFICA.AI","textShapes":18}
+{"kind":"textbox","id":"sh/pkbe9sn2","slide":9,"text":"VERIFICA.AI","textPreview":"VERIFICA.AI","textChars":11,"textLines":1,"bbox":[72,32,170,24]}
+{"kind":"textbox","id":"sh/2hkfyx4r","slide":9,"text":"08 / DIAGNÓSTICO DOS RISCOS SOCIAIS","textPreview":"08 / DIAGNÓSTICO DOS RISCOS SOCIAIS","textChars":35,"textLines":1,"bbox":[72,91,850,20]}
+{"kind":"textbox","id":"sh/3itw725w","slide":9,"text":"O impacto vai além de uma tela","textPreview":"O impacto vai além de uma tela","textChars":30,"textLines":1,"bbox":[72,122,1136,83]}
+{"kind":"shape","id":"sh/gvixwnml","slide":9,"bbox":[72,674,1136,1]}
+{"kind":"textbox","id":"sh/hwbe5sn6","slide":9,"text":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textPreview":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textChars":40,"textLines":1,"bbox":[72,682,800,18]}
+{"kind":"textbox","id":"sh/ut0fud4f","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1162,682,46,18]}
+{"kind":"textbox","id":"sh/fu9w3i50","slide":9,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[72,248,42,32]}
+{"kind":"textbox","id":"sh/0rmx87mp","slide":9,"text":"INFORMACIONAL","textPreview":"INFORMACIONAL","textChars":13,"textLines":1,"bbox":[129,248,435,23]}
+{"kind":"textbox","id":"sh/1cvyhc3a","slide":9,"text":"Uma fala falsa pode ser tomada como registro verdadeiro.","textPreview":"Uma fala falsa pode ser tomada como registro verdadeiro.","textChars":56,"textLines":1,"bbox":[129,282,447,68]}
+{"kind":"shape","id":"sh/1cvy10na","slide":9,"bbox":[72,367,520,1]}
+{"kind":"textbox","id":"sh/0bmhsvmp","slide":9,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[650,248,42,32]}
+{"kind":"textbox","id":"sh/zatgzq54","slide":9,"text":"REPUTAÇÃO E BEM-ESTAR","textPreview":"REPUTAÇÃO E BEM-ESTAR","textChars":21,"textLines":1,"bbox":[707,248,435,23]}
+{"kind":"textbox","id":"sh/e9kzq54j","slide":9,"text":"A pessoa retratada pode sofrer exposição ou desconfiança.","textPreview":"A pessoa retratada pode sofrer exposição ou desconfiança.","textChars":57,"textLines":1,"bbox":[707,282,447,68]}
+{"kind":"shape","id":"sh/d8byx0ny","slide":9,"bbox":[650,367,520,1]}
+{"kind":"textbox","id":"sh/c72hovmd","slide":9,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[72,405,42,32]}
+{"kind":"textbox","id":"sh/r6tgvq5s","slide":9,"text":"ECONÔMICO","textPreview":"ECONÔMICO","textChars":9,"textLines":1,"bbox":[129,405,435,23]}
+{"kind":"textbox","id":"sh/q5kzml4n","slide":9,"text":"Imagem ou voz clonada pode dar credibilidade a fraudes.","textPreview":"Imagem ou voz clonada pode dar credibilidade a fraudes.","textChars":55,"textLines":1,"bbox":[129,439,447,68]}
+{"kind":"shape","id":"sh/x4fi9kn2","slide":9,"bbox":[72,524,520,1]}
+{"kind":"textbox","id":"sh/w36h0fmx","slide":9,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[650,405,42,32]}
+{"kind":"textbox","id":"sh/wne1w3ut","slide":9,"text":"COLETIVO","textPreview":"COLETIVO","textChars":8,"textLines":1,"bbox":[707,405,435,23]}
+{"kind":"textbox","id":"sh/h8n258be","slide":9,"text":"Conteúdo enganoso pode confundir o debate público.","textPreview":"Conteúdo enganoso pode confundir o debate público.","textChars":50,"textLines":1,"bbox":[707,439,447,68]}
+{"kind":"shape","id":"sh/ulcjutc3","slide":9,"bbox":[650,524,520,1]}
+{"kind":"textbox","id":"sh/vmlk3yt8","slide":9,"text":"A ANPD destaca riscos de fraude, violência digital e desinformação eleitoral no Brasil.","textPreview":"A ANPD destaca riscos de fraude, violência digital e desinformação eleitoral no Brasil.","textChars":87,"textLines":1,"bbox":[72,584,1090,36]}
+{"kind":"notes","id":"nt/j6d6if","slide":9,"text":"Paulo. Apresente os eixos informacional, reputacional/emocional, econômico e coletivo. A ANPD relaciona uso indevido de deepfakes a golpes, fraudes, violência de gênero e manipulação eleitoral; não diga que todos ocorreram no caso do TSE. Fonte: ANPD, Radar Tecnológico nº 6, https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-radar-tecnologico-sobre-deepfakes"}
+{"kind":"slide","id":"sl/lcfzv5","slide":10,"title":"VERIFICA.AI","textShapes":13}
+{"kind":"textbox","id":"sh/ehs76toz","slide":10,"text":"VERIFICA.AI","textPreview":"VERIFICA.AI","textChars":11,"textLines":1,"bbox":[72,32,170,24]}
+{"kind":"textbox","id":"sh/1k36h87q","slide":10,"text":"09 / PERFIL PROFISSIONAL","textPreview":"09 / PERFIL PROFISSIONAL","textChars":24,"textLines":1,"bbox":[72,91,850,20]}
+{"kind":"textbox","id":"sh/gjap8365","slide":10,"text":"Engenharia de software pode apoiar a verificação","textPreview":"Engenharia de software pode apoiar a verificação","textChars":48,"textLines":1,"bbox":[72,122,1136,83]}
+{"kind":"shape","id":"sh/3mlojypg","slide":10,"bbox":[72,674,1136,1]}
+{"kind":"textbox","id":"sh/2lc7adob","slide":10,"text":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textPreview":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textChars":40,"textLines":1,"bbox":[72,682,800,18]}
+{"kind":"textbox","id":"sh/po36l87m","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1162,682,46,18]}
+{"kind":"textbox","id":"sh/onupc361","slide":10,"text":"A contribuição não é prometer um detector infalível: é criar ferramentas transparentes e responsáveis.","textPreview":"A contribuição não é prometer um detector infalível: é criar ferramentas transparentes e responsáveis.","textChars":102,"textLines":1,"bbox":[72,241,1036,66]}
+{"kind":"shape","id":"sh/balonips","slide":10,"bbox":[72,340,1136,1]}
+{"kind":"textbox","id":"sh/q9c7edo7","slide":10,"text":"PROCEDÊNCIA","textPreview":"PROCEDÊNCIA","textChars":11,"textLines":1,"bbox":[72,376,330,21]}
+{"kind":"textbox","id":"sh/gzmp0vip","slide":10,"text":"Ajudar a localizar fonte original e preservar contexto.","textPreview":"Ajudar a localizar fonte original e preservar contexto.","textChars":55,"textLines":1,"bbox":[72,410,330,70]}
+{"kind":"shape","id":"sh/10vqtgzu","slide":10,"bbox":[422,374,1,128]}
+{"kind":"textbox","id":"sh/ed47yl0j","slide":10,"text":"TRANSPARÊNCIA","textPreview":"TRANSPARÊNCIA","textChars":13,"textLines":1,"bbox":[454,376,330,21]}
+{"kind":"textbox","id":"sh/fed8rqh4","slide":10,"text":"Mostrar limites e incertezas do sistema.","textPreview":"Mostrar limites e incertezas do sistema.","textChars":40,"textLines":1,"bbox":[454,410,330,70]}
+{"kind":"shape","id":"sh/o36p4vyl","slide":10,"bbox":[804,374,1,128]}
+{"kind":"textbox","id":"sh/p4fqx0z6","slide":10,"text":"PRIVACIDADE","textPreview":"PRIVACIDADE","textChars":11,"textLines":1,"bbox":[836,376,330,21]}
+{"kind":"textbox","id":"sh/21472lgf","slide":10,"text":"Evitar recolher imagem e voz sem necessidade.","textPreview":"Evitar recolher imagem e voz sem necessidade.","textChars":45,"textLines":1,"bbox":[836,410,330,70]}
+{"kind":"textbox","id":"sh/32d8vqh0","slide":10,"text":"O Verifica.AI é um protótipo educativo; não analisa arquivos nem classifica vídeos.","textPreview":"O Verifica.AI é um protótipo educativo; não analisa arquivos nem classifica vídeos.","textChars":83,"textLines":1,"bbox":[72,548,1120,45]}
+{"kind":"notes","id":"nt/lcfzv5","slide":10,"text":"Paulo. Área escolhida: Engenharia de Software. O profissional pode desenvolver soluções para buscar proveniência e contexto e explicar limites. Modelos podem errar e não substituem confirmação por fontes. O site da equipe é protótipo educativo sem análise real de arquivos. Fonte: Governo Digital, Guia IA Generativa, https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/guia-ia-generativa"}
+{"kind":"slide","id":"sl/bquz6y","slide":11,"title":"VERIFICA.AI","textShapes":24}
+{"kind":"textbox","id":"sh/3qx8761s","slide":11,"text":"VERIFICA.AI","textPreview":"VERIFICA.AI","textChars":11,"textLines":1,"bbox":[72,32,170,24]}
+{"kind":"textbox","id":"sh/or6p0b2d","slide":11,"text":"10 / GUIA DE ANÁLISE E RECOMENDAÇÕES PÚBLICAS","textPreview":"10 / GUIA DE ANÁLISE E RECOMENDAÇÕES PÚBLICAS","textChars":45,"textLines":1,"bbox":[72,91,850,20]}
+{"kind":"textbox","id":"sh/pcfq9gjy","slide":11,"text":"PARE. VERIFIQUE. PENSE. CONTEXTUALIZE.","textPreview":"PARE. VERIFIQUE. PENSE. CONTEXTUALIZE.","textChars":38,"textLines":1,"bbox":[72,122,1136,83]}
+{"kind":"shape","id":"sh/ul47u1kb","slide":11,"bbox":[72,674,1136,1]}
+{"kind":"textbox","id":"sh/fmd83mlw","slide":11,"text":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textPreview":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textChars":40,"textLines":1,"bbox":[72,682,800,18]}
+{"kind":"textbox","id":"sh/gnmpwr2h","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1162,682,46,18]}
+{"kind":"textbox","id":"sh/1ovq5w3m","slide":11,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[72,251,40,27]}
+{"kind":"textbox","id":"sh/6h47qhkz","slide":11,"text":"PARE","textPreview":"PARE","textChars":4,"textLines":1,"bbox":[72,291,260,28]}
+{"kind":"textbox","id":"sh/7id8zmlk","slide":11,"text":"Não repasse por impulso.","textPreview":"Não repasse por impulso.","textChars":24,"textLines":1,"bbox":[72,336,252,59]}
+{"kind":"shape","id":"sh/rup8r210","slide":11,"bbox":[341,250,1,140]}
+{"kind":"textbox","id":"sh/qtg7ix0f","slide":11,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[358,251,40,27]}
+{"kind":"textbox","id":"sh/dw7qtcj6","slide":11,"text":"VERIFIQUE","textPreview":"VERIFIQUE","textChars":9,"textLines":1,"bbox":[358,291,260,28]}
+{"kind":"textbox","id":"sh/cvy9k7il","slide":11,"text":"Encontre a publicação original.","textPreview":"Encontre a publicação original.","textChars":31,"textLines":1,"bbox":[358,336,252,59]}
+{"kind":"shape","id":"sh/zy98v21w","slide":11,"bbox":[627,250,1,140]}
+{"kind":"textbox","id":"sh/ex0rmh0b","slide":11,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[644,251,40,27]}
+{"kind":"textbox","id":"sh/10rqxcj2","slide":11,"text":"PENSE","textPreview":"PENSE","textChars":5,"textLines":1,"bbox":[644,291,260,28]}
+{"kind":"textbox","id":"sh/0zi9o7ih","slide":11,"text":"Compare data, contexto e fontes.","textPreview":"Compare data, contexto e fontes.","textChars":32,"textLines":1,"bbox":[644,336,252,59]}
+{"kind":"shape","id":"sh/v258ji1s","slide":11,"bbox":[913,250,1,140]}
+{"kind":"textbox","id":"sh/u1w7ad07","slide":11,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[930,251,40,27]}
+{"kind":"textbox","id":"sh/yh4bilkv","slide":11,"text":"CONTEXTUALIZE","textPreview":"CONTEXTUALIZE","textChars":13,"textLines":1,"bbox":[930,291,260,28]}
+{"kind":"textbox","id":"sh/jidcrqlg","slide":11,"text":"Só compartilhe com confirmação.","textPreview":"Só compartilhe com confirmação.","textChars":31,"textLines":1,"bbox":[930,336,252,59]}
+{"kind":"shape","id":"sh/kjmtkv21","slide":11,"bbox":[72,433,1136,1]}
+{"kind":"textbox","id":"sh/lkvut036","slide":11,"text":"NA ESCOLA","textPreview":"NA ESCOLA","textChars":9,"textLines":1,"bbox":[72,462,335,20]}
+{"kind":"textbox","id":"sh/atkbe1kj","slide":11,"text":"Usem exemplos identificados e conversem sobre contexto.","textPreview":"Usem exemplos identificados e conversem sobre contexto.","textChars":55,"textLines":1,"bbox":[72,491,335,66]}
+{"kind":"textbox","id":"sh/butsn6l4","slide":11,"text":"NAS PLATAFORMAS","textPreview":"NAS PLATAFORMAS","textChars":15,"textLines":1,"bbox":[457,462,335,20]}
+{"kind":"textbox","id":"sh/wf2tgb2p","slide":11,"text":"Peçam transparência, origem e canais de denúncia.","textPreview":"Peçam transparência, origem e canais de denúncia.","textChars":49,"textLines":1,"bbox":[457,491,335,66]}
+{"kind":"textbox","id":"sh/xgvapg3a","slide":11,"text":"SE ALGUÉM FOR PREJUDICADO","textPreview":"SE ALGUÉM FOR PREJUDICADO","textChars":25,"textLines":1,"bbox":[842,462,333,20]}
+{"kind":"textbox","id":"sh/mpkba1kn","slide":11,"text":"Guardem evidências, denunciem e busquem apoio.","textPreview":"Guardem evidências, denunciem e busquem apoio.","textChars":46,"textLines":1,"bbox":[842,491,333,66]}
+{"kind":"textbox","id":"sh/nqtsj6l8","slide":11,"text":"Um sinal estranho pede checagem; sozinho, não prova manipulação.","textPreview":"Um sinal estranho pede checagem; sozinho, não prova manipulação.","textChars":64,"textLines":1,"bbox":[72,584,1090,30]}
+{"kind":"notes","id":"nt/bquz6y","slide":11,"text":"Adryan. Apresente o guia: pausar, buscar fonte, comparar contexto e só compartilhar com confirmação. Na escola, usem exemplos identificados; se houver dano, preservem evidências e busquem apoio. A ANPD ressalta letramento e educação midiática e transparência algorítmica. Fonte: ANPD Radar Tecnológico nº 6, https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-radar-tecnologico-sobre-deepfakes"}
+{"kind":"slide","id":"sl/e2fpb1","slide":12,"title":"VERIFICA.AI  /  CAMPANHA DIGITAL","textShapes":15}
+{"kind":"textbox","id":"sh/e1wb2hgj","slide":12,"text":"VERIFICA.AI  /  CAMPANHA DIGITAL","textPreview":"VERIFICA.AI  /  CAMPANHA DIGITAL","textChars":32,"textLines":1,"bbox":[72,42,820,21]}
+{"kind":"textbox","id":"sh/147udwfa","slide":12,"text":"NEM TUDO QUE\nVOCÊ VÊ É REAL.","textPreview":"NEM TUDO QUE | VOCÊ VÊ É REAL.","textChars":28,"textLines":2,"bbox":[72,120,775,166]}
+{"kind":"textbox","id":"sh/03yt4ryp","slide":12,"text":"Antes de compartilhar, confira.","textPreview":"Antes de compartilhar, confira.","textChars":31,"textLines":1,"bbox":[76,305,685,36]}
+{"kind":"shape","id":"sh/nqpcfmxg","slide":12,"bbox":[76,376,1115,2]}
+{"kind":"textbox","id":"sh/25gb6hgv","slide":12,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[76,408,55,29]}
+{"kind":"textbox","id":"sh/ps7uhwf6","slide":12,"text":"PARE","textPreview":"PARE","textChars":4,"textLines":1,"bbox":[76,451,270,42]}
+{"kind":"textbox","id":"sh/oryt8re1","slide":12,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[356,408,55,29]}
+{"kind":"textbox","id":"sh/3a5c32xw","slide":12,"text":"VERIFIQUE","textPreview":"VERIFIQUE","textChars":9,"textLines":1,"bbox":[356,451,270,42]}
+{"kind":"textbox","id":"sh/i9cbuxgb","slide":12,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[636,408,55,29]}
+{"kind":"textbox","id":"sh/ov2lofq5","slide":12,"text":"PENSE","textPreview":"PENSE","textChars":5,"textLines":1,"bbox":[636,451,270,42]}
+{"kind":"textbox","id":"sh/pwbmhk7q","slide":12,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[916,408,55,29]}
+{"kind":"textbox","id":"sh/2tk3m58z","slide":12,"text":"COMPARTILHE","textPreview":"COMPARTILHE","textChars":11,"textLines":1,"bbox":[916,451,270,42]}
+{"kind":"textbox","id":"sh/3ut4fapk","slide":12,"text":"VERIFICA.AI","textPreview":"VERIFICA.AI","textChars":11,"textLines":1,"bbox":[76,548,195,32]}
+{"kind":"textbox","id":"sh/cz2lsfqh","slide":12,"text":"Protótipo educativo: guia de checagem + desafio “Real ou IA?”","textPreview":"Protótipo educativo: guia de checagem + desafio “Real ou IA?”","textChars":61,"textLines":1,"bbox":[76,586,865,30]}
+{"kind":"textbox","id":"sh/d0vmlk7m","slide":12,"text":"NÃO É UM DETECTOR DE DEEPFAKES","textPreview":"NÃO É UM DETECTOR DE DEEPFAKES","textChars":30,"textLines":1,"bbox":[76,635,700,19]}
+{"kind":"textbox","id":"sh/qxk3qp8b","slide":12,"text":"MARATONA TECH 2026  •  3º ANO D","textPreview":"MARATONA TECH 2026  •  3º ANO D","textChars":31,"textLines":1,"bbox":[865,635,336,19]}
+{"kind":"notes","id":"nt/e2fpb1","slide":12,"text":"Adryan. Apresente a campanha visual: pare, verifique, pense e compartilhe apenas com contexto confirmado. O site reúne um guia e um desafio educativo; não analisa arquivos nem detecta deepfakes. Para demonstrar exemplos, usem vídeos e imagens com origem conhecida, permissão de uso e aviso claro quando forem sintéticos ou encenados. Evitem usar colegas sem autorização."}
+{"kind":"slide","id":"sl/dn32xn","slide":13,"title":"VERIFICA.AI","textShapes":10}
+{"kind":"textbox","id":"sh/dkzyt4be","slide":13,"text":"VERIFICA.AI","textPreview":"VERIFICA.AI","textChars":11,"textLines":1,"bbox":[72,32,170,24]}
+{"kind":"textbox","id":"sh/qhofy9cn","slide":13,"text":"11 / CONCLUSÃO","textPreview":"11 / CONCLUSÃO","textChars":14,"textLines":1,"bbox":[72,91,850,20]}
+{"kind":"textbox","id":"sh/bixgret8","slide":13,"text":"A confiança começa antes do compartilhamento","textPreview":"A confiança começa antes do compartilhamento","textChars":44,"textLines":1,"bbox":[72,122,1136,83]}
+{"kind":"shape","id":"sh/of6xwzux","slide":13,"bbox":[72,674,1136,1]}
+{"kind":"textbox","id":"sh/pgfyp4vi","slide":13,"text":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textPreview":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textChars":40,"textLines":1,"bbox":[72,682,800,18]}
+{"kind":"textbox","id":"sh/2dofupcr","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1162,682,46,18]}
+{"kind":"textbox","id":"sh/3exgnudc","slide":13,"text":"A tecnologia pode fabricar aparência.\nA verificação recupera a origem e o contexto.","textPreview":"A tecnologia pode fabricar aparência. | A verificação recupera a origem e o contexto.","textChars":83,"textLines":2,"bbox":[72,250,1040,100]}
+{"kind":"shape","id":"sh/8bahsju1","slide":13,"bbox":[72,394,1136,2]}
+{"kind":"textbox","id":"sh/9cjy1obm","slide":13,"text":"O QUE APRENDEMOS","textPreview":"O QUE APRENDEMOS","textChars":16,"textLines":1,"bbox":[72,426,270,22]}
+{"kind":"textbox","id":"sh/ho36t0ji","slide":13,"text":"Deepfakes envolvem dados, ferramentas, escolhas humanas e formas de circulação. Nenhum detalhe visual substitui uma boa checagem.","textPreview":"Deepfakes envolvem dados, ferramentas, escolhas humanas e formas de circulação. Nenhum detalhe visual substitui uma boa checagem.","textChars":129,"textLines":1,"bbox":[72,461,855,68]}
+{"kind":"textbox","id":"sh/wnu50vix","slide":13,"text":"Antes de compartilhar, verifique.","textPreview":"Antes de compartilhar, verifique.","textChars":33,"textLines":1,"bbox":[72,563,950,46]}
+{"kind":"textbox","id":"sh/vmlo7q1c","slide":13,"text":"Obrigado. Perguntas?","textPreview":"Obrigado. Perguntas?","textChars":20,"textLines":1,"bbox":[72,625,400,28]}
+{"kind":"notes","id":"nt/dn32xn","slide":13,"text":"Adryan. Feche retomando a ideia central. Pergunte: “Que fonte você procuraria primeiro antes de compartilhar este vídeo?” Convide a turma a experimentar o desafio do site."}
+{"kind":"slide","id":"sl/xs2mpz","slide":14,"title":"VERIFICA.AI","textShapes":18}
+{"kind":"textbox","id":"sh/w321srm9","slide":14,"text":"VERIFICA.AI","textPreview":"VERIFICA.AI","textChars":11,"textLines":1,"bbox":[72,32,170,24]}
+{"kind":"textbox","id":"sh/b2tkjmlo","slide":14,"text":"12 / REFERÊNCIAS","textPreview":"12 / REFERÊNCIAS","textChars":16,"textLines":1,"bbox":[72,91,850,20]}
+{"kind":"textbox","id":"sh/a1kjqh43","slide":14,"text":"Fontes para continuar a investigação","textPreview":"Fontes para continuar a investigação","textChars":36,"textLines":1,"bbox":[72,122,1136,83]}
+{"kind":"shape","id":"sh/90bihc3i","slide":14,"bbox":[72,674,1136,1]}
+{"kind":"textbox","id":"sh/oz21ormx","slide":14,"text":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textPreview":"MARATONA TECH 2026  •  ENSINO MÉDIO / N3","textChars":40,"textLines":1,"bbox":[72,682,800,18]}
+{"kind":"textbox","id":"sh/ny90fmlc","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1162,682,46,18]}
+{"kind":"shape","id":"sh/mx0jmh4r","slide":14,"bbox":[72,234,4,65]}
+{"kind":"textbox","id":"sh/1wridc3m","slide":14,"text":"ANPD · Radar Tecnológico nº 6: Deepfakes (2026)","textPreview":"ANPD · Radar Tecnológico nº 6: Deepfakes (2026)","textChars":47,"textLines":1,"bbox":[92,235,520,27]}
+{"kind":"textbox","id":"sh/0vi1k7m1","slide":14,"text":"Definição, funcionamento, proteção de dados e riscos.","textPreview":"Definição, funcionamento, proteção de dados e riscos.","textChars":53,"textLines":1,"bbox":[92,269,515,43]}
+{"kind":"shape","id":"sh/2xc7qxov","slide":14,"bbox":[72,353,4,65]}
+{"kind":"textbox","id":"sh/niloj25g","slide":14,"text":"TSE · Tese sobre deepfake e Eleições 2026 (set. 2026)","textPreview":"TSE · Tese sobre deepfake e Eleições 2026 (set. 2026)","textChars":53,"textLines":1,"bbox":[92,354,520,27]}
+{"kind":"textbox","id":"sh/ojups76l","slide":14,"text":"Caso público, critérios jurídicos e contexto.","textPreview":"Caso público, critérios jurídicos e contexto.","textChars":45,"textLines":1,"bbox":[92,388,515,43]}
+{"kind":"shape","id":"sh/pk36lcn6","slide":14,"bbox":[72,472,4,65]}
+{"kind":"textbox","id":"sh/ets7mdoj","slide":14,"text":"SECOM · Guia “Conhecendo os riscos”","textPreview":"SECOM · Guia “Conhecendo os riscos”","textChars":35,"textLines":1,"bbox":[92,473,520,27]}
+{"kind":"textbox","id":"sh/fu1ofi54","slide":14,"text":"IA generativa e recomendação de conteúdo.","textPreview":"IA generativa e recomendação de conteúdo.","textChars":41,"textLines":1,"bbox":[92,507,515,43]}
+{"kind":"shape","id":"sh/0vapon6p","slide":14,"bbox":[657,234,4,65]}
+{"kind":"textbox","id":"sh/1wj6hsna","slide":14,"text":"ANPD · Titular de Dados / Perguntas Frequentes","textPreview":"ANPD · Titular de Dados / Perguntas Frequentes","textChars":46,"textLines":1,"bbox":[677,235,520,27]}
+{"kind":"textbox","id":"sh/qpsnidon","slide":14,"text":"Dado pessoal, aparência e biometria na LGPD.","textPreview":"Dado pessoal, aparência e biometria na LGPD.","textChars":44,"textLines":1,"bbox":[677,269,515,43]}
+{"kind":"shape","id":"sh/rq1obip8","slide":14,"bbox":[657,353,4,65]}
+{"kind":"textbox","id":"sh/vidc3aho","slide":14,"text":"Lei nº 13.709/2018 · LGPD, art. 5º","textPreview":"Lei nº 13.709/2018 · LGPD, art. 5º","textChars":34,"textLines":1,"bbox":[677,354,520,27]}
+{"kind":"textbox","id":"sh/ax4vu503","slide":14,"text":"Definições legais de dado pessoal e sensível.","textPreview":"Definições legais de dado pessoal e sensível.","textChars":45,"textLines":1,"bbox":[677,388,515,43]}
+{"kind":"shape","id":"sh/xkfu5kzu","slide":14,"bbox":[657,472,4,65]}
+{"kind":"textbox","id":"sh/wjmdwfi9","slide":14,"text":"Maratona Tech 2026 · Material do Estudante, N3","textPreview":"Maratona Tech 2026 · Material do Estudante, N3","textChars":46,"textLines":1,"bbox":[677,473,520,27]}
+{"kind":"textbox","id":"sh/jmxc7uhk","slide":14,"text":"Requisitos do relatório e das recomendações.","textPreview":"Requisitos do relatório e das recomendações.","textChars":44,"textLines":1,"bbox":[677,507,515,43]}
+{"kind":"textbox","id":"sh/ilovyp0f","slide":14,"text":"Links completos e roteiro de fala estão nas notas do apresentador.","textPreview":"Links completos e roteiro de fala estão nas notas do apresentador.","textChars":66,"textLines":1,"bbox":[72,608,1120,28]}
+{"kind":"notes","id":"nt/xs2mpz","slide":14,"text":"Fontes consultadas em 30/09/2026. 1) ANPD, “ANPD publica Radar Tecnológico sobre deepfakes”, 29 jul. 2026. https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-radar-tecnologico-sobre-deepfakes\n2) TSE, “TSE fixa tese sobre deepfake e delimita regra para as Eleições 2026”, 1–2 set. 2026. https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-fixa-tese-sobre-deepfake-e-delimita-regra-para-as-eleicoes-2026\n3) SECOM, “Conhecendo os riscos”, Guia sobre uso de telas por crianças e adolescentes. https://www.gov.br/secom/pt-br/assuntos/uso-de-telas-por-criancas-e-adolescentes/guia/capitulos/conhecendo-os-riscos\n4) ANPD, “Titular de Dados”. https://www.gov.br/anpd/pt-br/assuntos/titular-de-dados ; ANPD, “Perguntas Frequentes”. https://www.gov.br/anpd/pt-br/acesso-a-informacao/perguntas-frequentes\n5) Brasil. Lei nº 13.709, de 14 ago. 2018 (LGPD), art. 5º. https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm\n6) Maratona Tech. Material do Estudante — Fase 1 2026, Ensino Médio/N3, fornecido pela equipe."}
